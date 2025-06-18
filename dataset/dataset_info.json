@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "text_kz": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text_ru": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "urgency": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "region": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "status": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reply_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "duplicate": {
+      "dtype": "bool",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
